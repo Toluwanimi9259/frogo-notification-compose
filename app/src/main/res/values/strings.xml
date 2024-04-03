@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FrogoNotificationCompose</string>
+    <string name="custom_notif_string">This is a custom notification</string>
+    <string name="new_message">New Message!</string>
+    <string name="expand_to_show">Expand to show!</string>
+    <string name="notif_title">Title</string>
+    <string name="notif_content">Content</string>
+    <string name="notif_action_reply">Enter your reply...</string>
+    <string name="notif_title_sent">Reply Title</string>
+    <string name="notif_content_sent">Reply Content</string>
+</resources>
